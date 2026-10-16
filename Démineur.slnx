@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Démineur/Démineur.vcxproj" Id="926d6f84-bd5a-438f-aaed-abeb09c250b9" />
+</Solution>
